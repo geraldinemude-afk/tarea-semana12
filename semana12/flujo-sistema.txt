@@ -1,0 +1,6 @@
+1. Una persona escribe una petición.
+2. La plataforma guarda la petición.
+3. Otras personas pueden apoyarla.
+4. La plataforma va contando los apoyos.
+5. Cuando reúne los apoyos necesarios, se envía la petición a la 
+entidad correspondiente

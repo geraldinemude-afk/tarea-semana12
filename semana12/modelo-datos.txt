@@ -1,0 +1,17 @@
+Usuario
+- id
+- nombre
+- correo
+
+Peticion
+- id
+- usuario_id
+- titulo
+- descripcion
+- fecha
+
+Usuario: se encaga de guardar la información de quienes usan la 
+plataforma, con datos como nombre y correo. 
+
+Petición: Guarda la información de las solicitudes que realizan 
+los usuarios con base a su usuario_id

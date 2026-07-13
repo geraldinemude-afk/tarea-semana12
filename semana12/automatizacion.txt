@@ -1,0 +1,7 @@
+Evento: una peticion registrada fue rechazada.
+
+Mensaje: Se rechazo la petición.
+
+Información que no debe enviarse: nombres completos, números de
+documento, direcciones, teléfonos, correos electrónicos o 
+cualquier otro dato personal.
